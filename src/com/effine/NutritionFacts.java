@@ -1,5 +1,6 @@
 package com.effine;
 
+//Builder 设计模式
 public class NutritionFacts {
 	// Required parameters
 	private final int servingSize;
