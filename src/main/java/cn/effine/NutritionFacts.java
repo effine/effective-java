@@ -1,4 +1,4 @@
-package com.effine;
+package cn.effine;
 
 //Builder 设计模式
 public class NutritionFacts {
